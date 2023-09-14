@@ -6,8 +6,4 @@
 
 4. sudo python3.8 -m pip install psycopg2-binary -t python/
 
-5. sudo python3.8 -m pip install requests -t python/
-
-6. sudo python3.8 -m pip install urllib3==1.26.6 -t python/
-
-7. zip -r dependancies.zip python
+5. zip -r dependancies.zip python
