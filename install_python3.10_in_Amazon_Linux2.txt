@@ -1,0 +1,18 @@
+1. sudo yum update -y
+2. sudo yum groupinstall "Development Tools" -y 
+3. sudo yum erase openssl-devel -y 
+4. sudo yum install openssl11 openssl11-devel  libffi-devel bzip2-devel wget -y  
+5. gcc --version
+6. amazon-linux-extras | grep -i python
+7. wget https://www.python.org/ftp/python/3.10.4/Python-3.10.4.tgz
+8. tar -xf Python-3.10.4.tgz
+9. cd Python-3.10.4/
+10. ./configure --enable-optimizations
+11. nproc
+12. make -j $(nproc)
+13. sudo make altinstall
+14. python
+15. python3.10 get-pip.py --user 
+16. sudo yum install python3-pip
+
+
