@@ -1,0 +1,20 @@
+{
+  "directive": {
+    "header": {
+      "namespace": "Alexa.PowerController",
+      "name": "TurnOff",
+      "payloadVersion": "3",
+      "messageId": "1bd5d003-31b9-476f-ad03-71d471922820",
+      "correlationToken": "dFMb0z+PgpgdDmluhJ1LddFvSqZ/jCc8ptlAKulUj90jSqg=="
+    },
+    "endpoint": {
+      "scope": {
+        "type": "BearerToken",
+        "token": "Atza|IwEBIP_drMcJ02zaa01Ozj-3ANDacR3-RdJKQhqNdNLj3SLqwrHgajmnpBMmku-4_vLNE1mFfQ9tpt2tUCa0b0i5aL3o8kcwU93_L82ZIPNbjQmr6dR8B9Nt36fncEySmwnDRvtjXYQMlKX4oYNR0-GqsCBFSTQX2C7UeUWMYeRhDsTbDKxNFMbjv8eJ0K0HxRhJhVZjDNDOeGLChCOHZkAaHlKVBYjrWwd5LKpMK1HjeH8rsg9l01dv7NQlHj835iTXW0vr_eK4HXfC4xxykjk6I9SlNi-pjuAQOLjuOkGl3TOlivRNfJ7GjdcdYiB00EhM6qHpyyWpFTuCi0P7UrRAwrS01VV4Bxwyxv4NhJVIYBKmvLPAwxs32i8dOTYHsovTvYYymUrwite59iasNfeu-hqf8-Y1RtlHLb9WeMemkI4lug"
+      },
+      "endpointId": "endpoint-005",
+      "cookie": {}
+    },
+    "payload": {}
+  }
+}
